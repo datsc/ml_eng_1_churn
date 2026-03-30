@@ -1,4 +1,4 @@
 [core]
     remote = local_remote
 ['remote "local_remote"']
-    url = C:/Users/Ugur/AppData/Local/Temp/dvc-remote
+    url = F:/Ugur/remote_dvc
