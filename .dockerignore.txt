@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# DVC
+.dvc
+*.dvc
+
+# Data and artifacts (model.pkl is copied explicitly)
+data/
+models/X_test.csv
+models/y_test.csv
+models/metrics.json
+
+# MLflow
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Tests
+tests/
+
+# Env
+.env
+*.env
