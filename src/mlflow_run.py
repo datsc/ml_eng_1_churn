@@ -11,9 +11,9 @@ from evaluate import evaluate, load_model, get_test_data, print_report, save_met
 
 # --- Hyperparameters ---
 N_ESTIMATORS = 100
-RANDOM_STATE_MODEL = 1529
+RANDOM_STATE_MODEL = 15
 TEST_SIZE = 0.2
-RANDOM_STATE_SPLIT = 42
+RANDOM_STATE_SPLIT = 60
 
 DATA_PATH = "data/churn.csv"
 MODEL_PATH = "models/model.pkl"
