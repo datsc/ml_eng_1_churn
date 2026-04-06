@@ -11,7 +11,6 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # TODO LIST
 
-- I only run small tests in test_train.py so far. Check and run the others.
  
 TO RUN
 ######
@@ -22,3 +21,14 @@ python src/train.py
 pytest tests/test_train.py -v
 python src/evaluate.py
 pytest tests/test_evaluate.py -v
+
+TO REWRITE
+##########
+
+Git repo
+Data
+Train.py
+Evaluate.py
+DVC
+mlflow
+Docker on github codespaces
